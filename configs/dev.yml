@@ -1,0 +1,9 @@
+build:
+  date: 2021-05-06
+  number: 1
+
+service:
+  name: DemoProject
+  port: 8082
+  domain: localhost
+  endpoint: /DemoProject
